@@ -35,4 +35,4 @@
 
 ## ソースコード
 
-https://github.com/xxxxxx
+https://github.com/Rie-oota/wdc-landing-page
